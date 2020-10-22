@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+	  <title>	
+	  </title>
+    </head>
+     <body>
+<from>  
+	<input type="text" name="">
+	     <input type="file" name="">
+		 <p><b>alegeti disciplina:</b><Br>
+         <input type="radio" name="browser" value="ie"> mat<Br>
+         <input type="radio" name="browser" value="opera"> inf<Br>
+         <p></p>
+	     <input type="date" name="date">
+	       <p>comentariu<Br>
+           <textarea name="comment" cols="40" rows="3"></textarea></p>
+         <p><input type="submit" value="trimite">
+        <input type="reset" value="sterge"></p>
+         <input type="color" name="">
+        <input type="submit" name="">
+        <textarea name="cemment"> </textarea>
+        <select>
+        	<option> optiunea1</option>
+        	<option> optiunea2</option>
+        </select>
+        
+  </form>	
+       </body>
+  </html>
